@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @softwareshukla87
+- 👋 Hi, I’m #softwareshukla87
 - 👀 I’m interested in ...ai and web 
 - 🌱 I’m currently learning ...Data science &  Machine Learning 
   
